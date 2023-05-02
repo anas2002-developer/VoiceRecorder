@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "653207379391",
+    "project_id": "fir-imageupload-b700f",
+    "storage_bucket": "fir-imageupload-b700f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653207379391:android:617379a5b3407ba86a950a",
+        "android_client_info": {
+          "package_name": "com.anas.firebaseimageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653207379391-4u056pso1ti2kj8harldqit0jn4lfmct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK1vX-kKQOQIrGuNI87IfuwN0yiIpIkrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653207379391-4u056pso1ti2kj8harldqit0jn4lfmct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653207379391:android:3367de1c29dd69486a950a",
+        "android_client_info": {
+          "package_name": "com.anas.voicerecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653207379391-4u056pso1ti2kj8harldqit0jn4lfmct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK1vX-kKQOQIrGuNI87IfuwN0yiIpIkrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653207379391-4u056pso1ti2kj8harldqit0jn4lfmct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
